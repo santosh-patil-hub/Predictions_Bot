@@ -1,0 +1,31 @@
+
+2025-06-25 05:24:16,251 | INFO | Algo-Trading System Started
+2025-06-25 05:24:17,847 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 05:24:21,664 | INFO | TCS.NS - Model Accuracy: 0.73
+2025-06-25 05:24:24,922 | INFO | INFY.NS - Model Accuracy: 0.80
+2025-06-25 05:24:29,597 | INFO | Execution completed.
+2025-06-25 05:27:31,791 | INFO | Algo-Trading System Started
+2025-06-25 05:27:33,239 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 05:27:37,676 | INFO | TCS.NS - Model Accuracy: 0.53
+2025-06-25 05:27:41,174 | INFO | INFY.NS - Model Accuracy: 0.80
+2025-06-25 05:27:44,362 | INFO | Execution completed.
+2025-06-25 05:30:43,534 | INFO | Algo-Trading System Started
+2025-06-25 05:30:45,009 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 05:30:48,820 | INFO | TCS.NS - Model Accuracy: 0.53
+2025-06-25 05:30:53,159 | INFO | INFY.NS - Model Accuracy: 0.80
+2025-06-25 05:30:56,456 | INFO | Execution completed.
+2025-06-25 05:32:46,349 | INFO | Algo-Trading System Started
+2025-06-25 05:32:47,928 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 05:32:51,801 | INFO | TCS.NS - Model Accuracy: 0.60
+2025-06-25 05:32:55,137 | INFO | INFY.NS - Model Accuracy: 0.67
+2025-06-25 05:32:58,288 | INFO | Execution completed.
+2025-06-25 15:22:49,014 | INFO | Algo-Trading System Started
+2025-06-25 15:22:52,373 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 15:22:56,752 | INFO | TCS.NS - Model Accuracy: 0.53
+2025-06-25 15:23:00,477 | INFO | INFY.NS - Model Accuracy: 0.67
+2025-06-25 15:23:04,114 | INFO | Execution completed.
+2025-06-25 15:28:30,605 | INFO | Algo-Trading System Started
+2025-06-25 15:28:33,594 | INFO | RELIANCE.NS - Model Accuracy: 0.47
+2025-06-25 15:28:37,335 | INFO | TCS.NS - Model Accuracy: 0.53
+2025-06-25 15:28:40,700 | INFO | INFY.NS - Model Accuracy: 0.67
+2025-06-25 15:28:44,348 | INFO | Execution completed.
